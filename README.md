@@ -42,3 +42,4 @@ like to listen.
 [MASSIVE](https://github.com/alexa/massive) is a parallel dataset of **> 1M** utterances across 51 languages with annotations for the Natural Language Understanding tasks of intent prediction and slot annotation. Utterances span **60 intents** and include **55 slot** types. **MASSIVE** was created by localizing the **SLURP** dataset, composed of general Intelligent Voice Assistant single-shot interactions.
 In this assignment, we are to use Farsi Dataset (**fa-IR.jsonl**). This Json file contains train, dev and test sets.
 
+Contributer: [Sheyda Eshaghi](https://github.com/sheydaes)
